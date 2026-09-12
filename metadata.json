@@ -1,0 +1,6 @@
+{
+  "name": "EduPro School Template",
+  "description": "Complete, professional school website template and portal system with customizable branding, admissions, result checker, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
